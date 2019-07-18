@@ -1,0 +1,12 @@
+
+#react
+git clone create-react-app
+npx create-react-app my-app
+
+
+#vue
+npm install express-generator -g
+express --view=jade backend
+cd backend
+npm install
+DEBUG=backend:* npm start
