@@ -1,0 +1,19 @@
+{
+  "name": "myapp",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node \"D:/node study/vueStudy/execute/noel/vue/myapp/bin/www\""
+  },
+  "dependencies": {
+    "cookie-parser": "^1.4.4",
+    "cookieparser": "^0.1.0",
+    "debug": "^2.6.9",
+    "express": "^4.17.1",
+    "http-errors": "^1.6.3",
+    "install": "^0.13.0",
+    "jade": "^1.11.0",
+    "morgan": "^1.9.1",
+    "path": "^0.12.7"
+  }
+}
