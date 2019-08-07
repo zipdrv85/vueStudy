@@ -1,0 +1,7 @@
+1. node 설치
+2. vue cli
+3. ide : visual studio
+
+영상보고
+
+hellow vue 까지 띄우기!
